@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [URL de github pages de este proyecto](https://raquel-castillejo.github.io/012-web-responsive-2/)
+- [raquel-castillejo.github.io/huddle-web-responsive-2/](https://raquel-castillejo.github.io/huddle-web-responsive-2/)
 
 ## Descripción 📑
 
@@ -29,8 +29,6 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 ## Autor ✒️
 
 **Raquel Castillejo Méndez**
-
-- [raquelcastillejo@pm.me](raquelcastillejo@pm.me)
 - [LinkedIn](https://www.linkedin.com/in/raquel-castillejo-mendez)
 
 ## Instalación
